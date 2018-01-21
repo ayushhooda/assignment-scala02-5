@@ -1,0 +1,1 @@
+{"name":"Ayush","age":23,"salary":12000.0,"address":{"city":"Ibrahimpur","state":"Delhi"}}
